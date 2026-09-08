@@ -8,12 +8,12 @@ title: Synodos Study Research Team
 .list-circles {
   text-align: center;
 }
-.list-circles-item {
-  display: inline-block;
-  width: 240px;
-  vertical-align: top;
-  margin: 0;
-  padding: 20px;
+ .list-circles-item .item-img {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 1px solid #777;
 }
 .list-circles-item:hover {
   background: #fafafa;
@@ -29,7 +29,6 @@ title: Synodos Study Research Team
 }
 .list-circles-item .item-institution {
   font-size: 14px;
-  font-style: italic;
   color: #777;
   margin-top: 4px;
 }
@@ -52,7 +51,7 @@ title: Synodos Study Research Team
     <img src="/assets/img/matthias-schwannauer.jpg" class="item-img" />
     <h4 class="item-name">Professor Matthias Schwannauer</h4>
     <div class="item-desc">Professor of Clinical Psychology</div>
-    <div class="item-desc">Research Lead, [Contextual Mental Health Research Group](https://health.ed.ac.uk/research/current-research/contextual-mental-health-research-group).</div>
+    <div class="item-desc">Research Lead, <a href="https://health.ed.ac.uk/research/current-research/contextual-mental-health-research-group">Contextual Mental Health Research Group</a>.</div>
     <div class="item-institution">The University of Edinburgh, United Kingdom</div>
     <div class="item-links">
       <a class="item-link" href="https://edwebprofiles.ed.ac.uk/profile/matthias-schwannauer" title="Website"><span class="fas fa-globe"></span></a>
@@ -63,7 +62,7 @@ title: Synodos Study Research Team
   <div class="list-circles-item">
     <img src="/assets/img/laura-maclean.jpg" class="item-img" />
     <h4 class="item-name">Dr Laura Maclean</h4>
-    <div class="item-desc">Research Associate, [Contextual Mental Health Research Group](https://health.ed.ac.uk/research/current-research/contextual-mental-health-research-group)</div>
+  <div class="item-desc">Research Associate, <a href="https://health.ed.ac.uk/research/current-research/contextual-mental-health-research-group">Contextual Mental Health Research Group</a>.</div>
     <div class="item-institution">The University of Edinburgh, United Kingdom</div>
     <div class="item-links">
       <a class="item-link" href="https://edwebprofiles.ed.ac.uk/profile/laura-maclean" title="Website"><span class="fas fa-globe"></span></a>
@@ -82,3 +81,4 @@ title: Synodos Study Research Team
   </div>
 
 </div>
+
