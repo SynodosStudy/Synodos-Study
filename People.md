@@ -50,7 +50,7 @@ subtitle: Research team behind this project
 <div class="list-circles">
 
   <div class="list-circles-item">
-    <img src="/assets/img/people/matthias-schwannauer.jpg" class="item-img" />
+    <img src="/assets/img/matthias-schwannauer.jpg" class="item-img" />
     <h4 class="item-name">Professor Matthias Schwannauer</h4>
     <div class="item-desc">Professor of Clinical Psychology</div>
     <div class="item-desc">Research Lead, [Contextual Mental Health Research Group](https://health.ed.ac.uk/research/current-research/contextual-mental-health-research-group).</div>
@@ -62,7 +62,7 @@ subtitle: Research team behind this project
   </div>
 
   <div class="list-circles-item">
-    <img src="/assets/img/people/laura-maclean.jpg" class="item-img" />
+    <img src="/assets/img/laura-maclean.jpg" class="item-img" />
     <h4 class="item-name">Dr Laura Maclean</h4>
     <div class="item-desc">Research Associate, [Contextual Mental Health Research Group](https://health.ed.ac.uk/research/current-research/contextual-mental-health-research-group)</div>
     <div class="item-institution">The University of Edinburgh, United Kingdom</div>
@@ -72,7 +72,7 @@ subtitle: Research team behind this project
   </div>
 
   <div class="list-circles-item">
-    <img src="/assets/img/people/yuze-shi.jpg" class="item-img" />
+    <img src="/assets/img/yuze-shi.jpg" class="item-img" />
     <h4 class="item-name">Yuze Shi</h4>
     <div class="item-desc">PhD Candidate in Clinical Psychology</div>
     <div class="item-institution">The University of Edinburgh, United Kingdom</div>
