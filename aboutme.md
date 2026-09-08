@@ -23,6 +23,7 @@ title: Synodos Study Research Team
   height: 200px;
   object-fit: cover;
   object-position: center top;
+  object-position: center 20%;
   border-radius: 50%;
   border: 1px solid #777;
 }
@@ -35,7 +36,6 @@ title: Synodos Study Research Team
 .list-circles-item .item-institution {
   font-size: 14px;
   font-style: italic;
-  color: #777;
   margin-top: 4px;
 }
 .list-circles-item .item-links {
@@ -56,7 +56,6 @@ title: Synodos Study Research Team
   <div class="list-circles-item">
     <img src="/assets/img/matthias-schwannauer.jpg" class="item-img" />
     <h4 class="item-name">Professor Matthias Schwannauer</h4>
-    <div class="item-desc">Professor of Clinical Psychology</div>
     <div class="item-desc">Research Lead, <a href="https://health.ed.ac.uk/research/current-research/contextual-mental-health-research-group">Contextual Mental Health Research Group</a>.</div>
     <div class="item-institution">The University of Edinburgh, United Kingdom</div>
     <div class="item-links">
@@ -78,7 +77,7 @@ title: Synodos Study Research Team
   <div class="list-circles-item">
     <img src="/assets/img/yuze-shi.jpg" class="item-img" />
     <h4 class="item-name">Yuze Shi</h4>
-    <div class="item-desc">PhD Candidate in Clinical Psychology</div>
+    <div class="item-desc">PhD Candidate</div>
     <div class="item-institution">The University of Edinburgh, United Kingdom</div>
     <div class="item-links">
       <a class="item-link" href="https://edwebprofiles.ed.ac.uk/profile/yuze-shi" title="Website"><span class="fas fa-globe"></span></a>
