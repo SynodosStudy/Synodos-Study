@@ -1127,8 +1127,15 @@ pre {
 
 
 .header-custom-img {
-  max-width: 400px;
+  max-width: 700 px;   /
   margin-bottom: 20px;
   display: block;
   margin-left: auto;
   margin-right: auto;
+}
+
+@media (min-width: 1200px) {
+  .header-custom-img {
+    max-width: 1000px; 
+  }
+}
