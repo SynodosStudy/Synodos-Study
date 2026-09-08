@@ -22,6 +22,7 @@ title: Synodos Study Research Team
   max-width: 200px;
   height: 200px;
   border-radius: 50%;
+  object-position: center top; 
   border: 1px solid #777;
 }
 .list-circles-item .item-desc {
