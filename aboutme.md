@@ -1,6 +1,6 @@
 ---
 layout: page
-subtitle: Synodos Study Research Team
+title: People
 ---
 
 
