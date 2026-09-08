@@ -8,6 +8,7 @@ title: People
 
 .list-circles {
   text-align: center;
+  gap: 20px;
   display: flex;
   flex-wrap: wrap;
 }
@@ -20,7 +21,7 @@ title: People
   margin-top: 12px;
   font-size: 16px;
   line-height: 1.3;
-  min-height: 2.9em; 
+  min-height: 2.6em; 
 }
 .list-circles-item:hover {
   background: #fafafa;
