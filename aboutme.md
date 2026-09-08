@@ -4,16 +4,22 @@ layout: page
 title: Synodos Study Research Team
 ---
 
+
 <style>
+
 .list-circles {
   text-align: center;
 }
-.list-circles-item {
-  display: inline-block;
-  width: 200px;
-  vertical-align: top;
-  margin: 0 15px 40px;
-  padding: 20px;
+ .list-circles-item {
+  width: 210px;
+  box-sizing: border-box;
+  padding: 15px;
+}
+.list-circles-item .item-name {
+  margin-top: 12px;
+  font-size: 16px;
+  line-height: 1.3;
+  min-height: 3.9em; 
 }
 .list-circles-item:hover {
   background: #fafafa;
