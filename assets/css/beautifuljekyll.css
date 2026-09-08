@@ -1160,7 +1160,7 @@ pre {
   border-radius: 10px;
   font-size: 1.75rem;
   font-weight: 700;
-  text-decoration: underline;
+  text-decoration: none;
   margin: 30px auto;
   max-width: 100%;
   border: 1px solid #b8e0cf;
