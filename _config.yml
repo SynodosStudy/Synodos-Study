@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: My website
+title: Synodos Study
 
 # Your name to show in the footer
 author: The Synodos Study Research Team
@@ -20,11 +20,11 @@ author: The Synodos Study Research Team
 ###############################################
 
 navbar-links:
-  People: "people"
+  Contact Us: "contact"
   Participant Safety Information: "safety"
+  People: "people"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - Study Update: "update"
 
 ################
 # --- Logo --- #
