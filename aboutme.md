@@ -59,7 +59,8 @@ title: Synodos Study Research Team
       <a class="item-link" href="https://orcid.org/0000-0002-4683-2596" title="ORCID"><span class="fab fa-orcid"></span></a>
     </div>
   </div>
-
+  </div>
+  
   <div class="list-circles-item">
     <img src="/assets/img/laura-maclean.jpg" class="item-img" />
     <h4 class="item-name">Dr Laura Maclean</h4>
@@ -69,7 +70,8 @@ title: Synodos Study Research Team
       <a class="item-link" href="https://edwebprofiles.ed.ac.uk/profile/laura-maclean" title="Website"><span class="fas fa-globe"></span></a>
     </div>
   </div>
-
+  </div>
+  
   <div class="list-circles-item">
     <img src="/assets/img/yuze-shi.jpg" class="item-img" />
     <h4 class="item-name">Yuze Shi</h4>
@@ -80,6 +82,7 @@ title: Synodos Study Research Team
       <a class="item-link" href="https://orcid.org/0000-0002-8780-4540" title="ORCID"><span class="fab fa-orcid"></span></a>
     </div>
   </div>
+    </div>
 
 </div>
 
