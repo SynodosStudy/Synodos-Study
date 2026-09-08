@@ -12,7 +12,7 @@ title: Synodos Study Research Team
   flex-wrap: wrap;
 }
  .list-circles-item {
-  width: 210px;
+  width: 240px;
   box-sizing: border-box;
   padding: 15px;
 }
