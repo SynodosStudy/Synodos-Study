@@ -10,7 +10,7 @@ title: Synodos Study Research Team
 }
 .list-circles-item {
   display: inline-block;
-  width: 240px;
+  width: 200px;
   vertical-align: top;
   margin: 0 15px 40px;
   padding: 20px;
@@ -19,8 +19,8 @@ title: Synodos Study Research Team
   background: #fafafa;
 }
 .list-circles-item .item-img {
-  width: 200px;
-  height: 200px;
+  width: 180px;
+  height: 180px;
   object-fit: cover;
   object-position: center top;
   object-position: center 10%;
