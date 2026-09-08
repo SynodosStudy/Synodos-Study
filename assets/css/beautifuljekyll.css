@@ -1154,7 +1154,7 @@ pre {
 .participate-button {
   display: block;
   background-color: #EEFEED;
-  color: #1d5c47;
+  color: #000;
   text-align: center;
   padding: 18px 20px;
   border-radius: 10px;
@@ -1168,10 +1168,5 @@ pre {
 
 .participate-button:hover {
   background-color: #d9f5df;
-  color: #14432f;
-}
-
-.participate-button i {
-  margin-right: 10px;
-  text-decoration: none;
+  color: #000;
 }
