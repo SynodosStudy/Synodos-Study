@@ -8,33 +8,37 @@ title: Synodos Study Research Team
 .list-circles {
   text-align: center;
 }
- .list-circles-item .item-img {
+.list-circles-item {
+  display: inline-block;
+  width: 240px;
+  vertical-align: top;
+  margin: 0 15px 40px;
+  padding: 20px;
+}
+.list-circles-item:hover {
+  background: #fafafa;
+}
+.list-circles-item .item-img {
   width: 200px;
   height: 200px;
   object-fit: cover;
   border-radius: 50%;
   border: 1px solid #777;
 }
-.list-circles-item:hover {
-  background: #fafafa;
-}
-.list-circles-item .item-img {
-  max-width: 200px;
-  height: 200px;
-  border-radius: 50%;
-  object-position: center top; 
-  border: 1px solid #777;
+.list-circles-item .item-name {
+  margin-top: 15px;
 }
 .list-circles-item .item-desc {
   font-size: 16px;
 }
 .list-circles-item .item-institution {
   font-size: 14px;
+  font-style: italic;
   color: #777;
   margin-top: 4px;
 }
 .list-circles-item .item-links {
-  margin-top: 5px;
+  margin-top: 8px;
 }
 .list-circles-item .item-link {
   margin: 0 3px;
