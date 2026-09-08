@@ -20,7 +20,7 @@ subtitle: Synodos Study Research Team
   margin-top: 12px;
   font-size: 16px;
   line-height: 1.3;
-  min-height: 3.9em; 
+  min-height: 2.9em; 
 }
 .list-circles-item:hover {
   background: #fafafa;
