@@ -52,7 +52,8 @@ subtitle: Research team behind this project
   <div class="list-circles-item">
     <img src="/assets/img/people/matthias-schwannauer.jpg" class="item-img" />
     <h4 class="item-name">Professor Matthias Schwannauer</h4>
-    <div class="item-desc">Professor of Clinical Psychology. Research lead of the [Contextual Mental Health Research Group](https://health.ed.ac.uk/research/current-research/contextual-mental-health-research-group).</div>
+    <div class="item-desc">Professor of Clinical Psychology</div>
+    <div class="item-desc">Research lead of the [Contextual Mental Health Research Group](https://health.ed.ac.uk/research/current-research/contextual-mental-health-research-group).</div>
     <div class="item-institution">The University of Edinburgh, United Kingdom</div>
     <div class="item-links">
       <a class="item-link" href="https://edwebprofiles.ed.ac.uk/profile/matthias-schwannauer" title="Website"><span class="fas fa-globe"></span></a>
@@ -63,7 +64,7 @@ subtitle: Research team behind this project
   <div class="list-circles-item">
     <img src="/assets/img/people/laura-maclean.jpg" class="item-img" />
     <h4 class="item-name">Dr Laura Maclean</h4>
-    <div class="item-desc">Research Associate, [Contextual Mental Health Research Group](https://health.ed.ac.uk/research/current-research/contextual-mental-health-research-group).</div>
+    <div class="item-desc">Research Associate, [Contextual Mental Health Research Group](https://health.ed.ac.uk/research/current-research/contextual-mental-health-research-group)</div>
     <div class="item-institution">The University of Edinburgh, United Kingdom</div>
     <div class="item-links">
       <a class="item-link" href="https://edwebprofiles.ed.ac.uk/profile/laura-maclean" title="Website"><span class="fas fa-globe"></span></a>
@@ -73,7 +74,7 @@ subtitle: Research team behind this project
   <div class="list-circles-item">
     <img src="/assets/img/people/yuze-shi.jpg" class="item-img" />
     <h4 class="item-name">Yuze Shi</h4>
-    <div class="item-desc">PhD Candidate in Clinical Psychology.</div>
+    <div class="item-desc">PhD Candidate in Clinical Psychology</div>
     <div class="item-institution">The University of Edinburgh, United Kingdom</div>
     <div class="item-links">
       <a class="item-link" href="https://edwebprofiles.ed.ac.uk/profile/yuze-shi" title="Website"><span class="fas fa-globe"></span></a>
