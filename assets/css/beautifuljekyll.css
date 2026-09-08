@@ -1150,3 +1150,28 @@ pre {
     max-width: 800px;
   }
 }
+
+.participate-button {
+  display: block;
+  background-color: #EEFEED;
+  color: #1d5c47;
+  text-align: center;
+  padding: 18px 20px;
+  border-radius: 10px;
+  font-size: 1.75rem;
+  font-weight: 700;
+  text-decoration: underline;
+  margin: 30px auto;
+  max-width: 100%;
+  border: 1px solid #b8e0cf;
+}
+
+.participate-button:hover {
+  background-color: #d9f5df;
+  color: #14432f;
+}
+
+.participate-button i {
+  margin-right: 10px;
+  text-decoration: none;
+}
