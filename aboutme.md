@@ -1,8 +1,7 @@
 
 ---
 layout: page
-title: Research Team
-subtitle: Research team behind this project
+title: Synodos Study Research Team
 ---
 
 <style>
