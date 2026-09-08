@@ -1,4 +1,3 @@
-
 ---
 layout: page
 title: Synodos Study Research Team
