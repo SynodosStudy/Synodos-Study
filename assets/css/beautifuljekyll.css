@@ -1127,7 +1127,7 @@ pre {
 
 
 .header-custom-img {
-  max-width: 400 px;   
+  max-width: 300 px;   
   margin-bottom: 20px;
   display: block;
   margin-left: auto;
@@ -1136,6 +1136,6 @@ pre {
 
 @media (min-width: 1200px) {
   .header-custom-img {
-    max-width: 600px; 
+    max-width: 500px; 
   }
 }
