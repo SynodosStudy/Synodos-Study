@@ -88,6 +88,7 @@ title: Synodos Study Research Team
     <img src="/assets/img/yuze-shi.jpg" class="item-img" />
     <h4 class="item-name">Yuze Shi</h4>
     <div class="item-desc">PhD Candidate</div>
+    <div class="item-desc"><a href="https://health.ed.ac.uk/research/current-research/contextual-mental-health-research-group">Contextual Mental Health Research Group</a></div>
     <div class="item-institution">The University of Edinburgh, United Kingdom</div>
     <div class="item-links">
       <a class="item-link" href="https://edwebprofiles.ed.ac.uk/profile/yuze-shi" title="Website"><span class="fas fa-globe"></span></a>
