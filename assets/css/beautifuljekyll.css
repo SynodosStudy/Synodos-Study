@@ -1180,7 +1180,24 @@ pre {
 
 .social-list i,
 .social-icon-img {
-  font-size: 1.3rem;
-  width: 24px;
+  font-size: 30px;
+  width: 30px;
+  height: 30px;
+  color: #000;
   text-align: center;
+}
+
+.qr-item p {
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin-bottom: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
+
+.qr-item i {
+  font-size: 30px;
+  color: #000;
 }
