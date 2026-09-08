@@ -19,8 +19,8 @@ title: Synodos Study Research Team
   background: #fafafa;
 }
 .list-circles-item .item-img {
-  width: 180px;
-  height: 180px;
+  width: 150px;
+  height: 150px;
   object-fit: cover;
   object-position: center top;
   object-position: center 10%;
