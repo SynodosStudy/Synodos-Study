@@ -9,6 +9,8 @@ title: Synodos Study Research Team
 
 .list-circles {
   text-align: center;
+  display: flex;
+  flex-wrap: wrap;
 }
  .list-circles-item {
   width: 210px;
