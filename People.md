@@ -1,7 +1,7 @@
 
 ---
 layout: page
-title: People
+title: aboutme
 subtitle: Research team behind this project
 ---
 
