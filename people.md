@@ -8,7 +8,7 @@ title: People
 
 .list-circles {
   text-align: center;
-  gap: 20px;
+  gap: 30px;
   display: flex;
   flex-wrap: wrap;
 }
