@@ -76,7 +76,7 @@ title: Synodos Study Research Team
   <div class="list-circles-item">
     <img src="/assets/img/laura-maclean.jpg" class="item-img" />
     <h4 class="item-name">Dr Laura Maclean</h4>
-    <div class="item-desc">Research Associate,</div>
+    <div class="item-desc">Research Associate</div>
     <div class="item-desc"><a href="https://health.ed.ac.uk/research/current-research/contextual-mental-health-research-group">Contextual Mental Health Research Group</a></div>
     <div class="item-institution">The University of Edinburgh, United Kingdom</div>
     <div class="item-links">
