@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Synodos Study Research Team
+subtitle: Synodos Study Research Team
 ---
 
 
@@ -12,7 +12,7 @@ title: Synodos Study Research Team
   flex-wrap: wrap;
 }
  .list-circles-item {
-  width: 240px;
+  width: 260px;
   box-sizing: border-box;
   padding: 15px;
 }
