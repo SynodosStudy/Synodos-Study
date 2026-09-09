@@ -9,6 +9,7 @@ title: People
 
 .list-circles {
   text-align: center;
+  justify-content: center;
   gap: 20px;
   display: flex;
   flex-wrap: wrap;
