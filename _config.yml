@@ -20,9 +20,10 @@ author: The Synodos Study Research Team
 ###############################################
 
 navbar-links:
+  Would Like to Participate: "https://edinburgh.eu.qualtrics.com/jfe/form/SV_42FbUD771lG2ozs"
   Contact Us: "contact"
   Participant Safety Information: "safety"
-  People: "people"
+  Research Team: "people"
   Resources:
     - Study Update: "update"
 
@@ -47,7 +48,6 @@ social-network-links:
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   facebook: SynodosStudy
   twitter: Synodos_Study
-  youtube: "@daattali"
   whatsapp: +8615521613375
   bluesky: Synodos Study
 
