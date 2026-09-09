@@ -1230,7 +1230,6 @@ pre {
 
 .emergency-table {
   width: 100%;
-  min-width: 500px;
   table-layout: fixed;
   border-collapse: collapse;
   margin: 20px 0;
@@ -1257,8 +1256,8 @@ pre {
 @media (max-width: 600px) {
   .emergency-table th,
   .emergency-table td {
-    padding: 6px 6px;
-    font-size: 0.85rem;
+    padding: 4px 4px;
+    font-size: 0.75rem;
   }
 }
 .footer-note {
