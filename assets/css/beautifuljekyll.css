@@ -1259,12 +1259,12 @@ pre {
 .footer-logo {
   display: block;
   margin: 0 auto 30px auto;
-  height: 200px;
+  height: 100px;
   width: auto;
 }
 
 @media (min-width: 1200px) {
   .footer-logo {
-    height: 400px;
+    height: 200px;
   }
 }
