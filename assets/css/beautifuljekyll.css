@@ -1255,3 +1255,16 @@ pre {
 .footer-note a:hover {
   color: #042265;
 }
+
+.footer-logo {
+  display: block;
+  margin: 0 auto 15px auto;
+  height: 40px;
+  width: auto;
+}
+
+@media (min-width: 1200px) {
+  .footer-logo {
+    height: 60px;
+  }
+}
