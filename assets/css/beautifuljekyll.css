@@ -1225,8 +1225,10 @@ pre {
 
 .emergency-table {
   width: 100%;
+  table-layout: fixed;
   border-collapse: collapse;
   margin: 20px 0;
+  background-color: #fff;
 }
 
 .emergency-table th,
@@ -1234,10 +1236,16 @@ pre {
   border: 1px solid #333;
   padding: 8px 12px;
   text-align: center;
+  background-color: #fff;
 }
 
 .emergency-table td:first-child {
   text-align: left;
+}
+
+.emergency-table th:first-child,
+.emergency-table td:first-child {
+  width: 55%;
 }
 
 .footer-note {
