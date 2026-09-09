@@ -267,3 +267,9 @@ plugins:
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
 
+.footer-note {
+  text-align: center;
+  font-size: 0.9rem;
+  color: #777777;
+  margin-top: 10px;
+}
