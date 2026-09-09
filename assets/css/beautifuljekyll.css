@@ -1246,3 +1246,12 @@ pre {
   color: #777777;
   margin-top: 10px;
 }
+
+.footer-note a {
+  color: inherit;
+  text-decoration: underline;
+}
+
+.footer-note a:hover {
+  color: #042265;
+}
