@@ -1239,3 +1239,10 @@ pre {
 .emergency-table td:first-child {
   text-align: left;
 }
+
+.footer-note {
+  text-align: center;
+  font-size: 0.9rem;
+  color: #777777;
+  margin-top: 10px;
+}
