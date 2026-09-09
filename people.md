@@ -1,7 +1,7 @@
 ---
 layout: page
 header-img: /assets/img/synodos_study_logo.png
-title: People
+title: Research Team
 ---
 
 
