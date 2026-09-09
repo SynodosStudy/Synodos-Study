@@ -20,6 +20,7 @@ author: Synodos Study
 ###############################################
 
 navbar-links:
+  '<i class="fas fa-home"></i> Home': "/"
   Would Like to Participate: "https://edinburgh.eu.qualtrics.com/jfe/form/SV_42FbUD771lG2ozs"
   Contact Us: "contact"
   Participant Safety Information: "safety"
