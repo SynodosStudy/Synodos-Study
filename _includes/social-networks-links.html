@@ -406,7 +406,89 @@
    </a>
   </li>
   {%- endif -%}
+  {%- if network[0] == "bilibili" -%}
+  <li class="list-inline-item">
+    <a href="https://space.bilibili.com/{{ network[1] }}" title="Bilibili">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-bilibili fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">Bilibili</span>
+   </a>
+  </li>
+  {%- endif -%}
 
+  {%- if network[0] == "threads" -%}
+  <li class="list-inline-item">
+    <a href="https://www.threads.com/@{{ network[1] }}" title="Threads">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-threads fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">Threads</span>
+   </a>
+  </li>
+  {%- endif -%}
+
+  {%- if network[0] == "tiktok" -%}
+  <li class="list-inline-item">
+    <a href="https://www.tiktok.com/@{{ network[1] }}" title="TikTok">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-tiktok fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">TikTok</span>
+   </a>
+  </li>
+  {%- endif -%}
+
+  {%- if network[0] == "douyin" -%}
+  <li class="list-inline-item">
+    <a href="https://www.douyin.com/user/{{ network[1] }}" title="Dou Yin">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-tiktok fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">Dou Yin</span>
+   </a>
+  </li>
+  {%- endif -%}
+
+  {%- if network[0] == "xiaohongshu" -%}
+  <li class="list-inline-item">
+    <a href="https://www.xiaohongshu.com/user/profile/{{ network[1] }}" title="RedNote (Xiaohongshu)">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <img src="/assets/img/xiaohongshu.svg" class="footer-social-img" alt="">
+      </span>
+      <span class="sr-only">RedNote (Xiaohongshu)</span>
+   </a>
+  </li>
+  {%- endif -%}
+
+  {%- if network[0] == "wechat" -%}
+  <li class="list-inline-item">
+    <a href="/assets/img/qr-wechat.jpg" title="WeChat" target="_blank" rel="noopener">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-weixin fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">WeChat</span>
+   </a>
+  </li>
+  {%- endif -%}
+
+  {%- if network[0] == "qq" -%}
+  <li class="list-inline-item">
+    <a href="/assets/img/qr-qq.jpg" title="QQ" target="_blank" rel="noopener">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-qq fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">QQ</span>
+   </a>
+  </li>
+  {%- endif -%}
 {%- endfor -%}
 
 </ul>
