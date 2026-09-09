@@ -13,7 +13,7 @@
 title: Synodos Study
 
 # Your name to show in the footer
-author: The Synodos Study Research Team
+author: Synodos Study
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -64,9 +64,6 @@ share-links-active:
   vk: false
   reddit: false
 
-# How to display the link to your website in the footer
-# Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
