@@ -1222,3 +1222,20 @@ pre {
   padding: 8px;
   display: block;
 }
+
+.emergency-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+}
+
+.emergency-table th,
+.emergency-table td {
+  border: 1px solid #333;
+  padding: 8px 12px;
+  text-align: center;
+}
+
+.emergency-table td:first-child {
+  text-align: left;
+}
